@@ -10,23 +10,24 @@ redirect_from:
 {% include base_path %}
 
 Education
+
 ======
 * B.Sc. in Electronics and Computer Engineering at UFRJ; Ongoing
 
-Work experience
+Work and Academic experience
 ======
 * 2/2018 to 1/2019: Web Developer Intern
   * Employer: Escala11
-  * Duties included: 
+  * Duties included: Developing website features, managing servers and leading team of devs. Main technologies used were PHP/Codeigniter, JavaScript/AngularJS, SQL, AWS and Linux concepts.   
 
 * xxxxx: Microelectronics Research Assistant
   * PADS/UFRJ 
-  * Duties included: 
+  * Duties included: Reading technical material in microelectronics, taking measures and plotting data.
   * Supervisor: Antonio Petraglia
   
-* xxxxx: Subsea Robotics Team
-  * UFRJ 
-  * Duties included:
+* xxxxx: Underwater Robotics Team Engineer
+  * Minerva Hydrus/UFRJ 
+  * Duties included: Developing micrcontroller firmware and sensor electronics for remotely operated vehicles.
 
 Skills
 ======
@@ -40,4 +41,4 @@ Skills
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
