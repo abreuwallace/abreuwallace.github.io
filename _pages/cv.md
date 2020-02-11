@@ -40,7 +40,7 @@ Skills
 
 * Computers
   * Machine Learning and Neural Networks
-  * Programming Languages: C/C++, Python, MATLAB, Perl, Data Structures, Parallel Processing and OOP Concepts 
+  * Programming Languages: C/C++, Python, MATLAB, Perl, Assembly, Data Structures, Parallel Processing and OOP Concepts 
   * Operating Systems: General Concepts, Linux
   * Microcontrollers: General Concepts, PIC
   * Version Control: GitHub
