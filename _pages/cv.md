@@ -23,7 +23,6 @@ Work and Academic experience
 * xxxxx: Microelectronics Research Assistant
   * PADS/UFRJ 
   * Duties included: Reading technical material in microelectronics, taking measures and plotting data.
-  * Supervisor: Antonio Petraglia
   
 * xxxxx: Underwater Robotics Team Engineer
   * Minerva Hydrus/UFRJ 
@@ -31,12 +30,24 @@ Work and Academic experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Electronics
+  * Analog Electronics: Amplifiers, AC/DC & DC/DC Converters, Oscillators, Modulators and Demodulators and others  
+  * Signal Processing: 
+  * Digital Electronics: 
+  * Control Systems: 
+  * Communications: 
+  * Simulation Software: MATLAB/Simulink, OrCAD, Proteus
+
+* Computers
+  * Machine Learning and Neural Networks
+  * Programming Languages: C/C++, Python, MATLAB, Perl, Data Structures, Parallel Processing and OOP Concepts 
+  * Operating Systems: General Concepts, Linux
+  * Microcontrollers: General Concepts, PIC
+  * Version Control: GitHub
+
+* General Skills
+  * Languages: Portuguese(native), English(Advanced), French(basic)
+  * Document Editing: LaTeX, Microsoft Word, Excel, PowerPoint
 
   
 Service and leadership
