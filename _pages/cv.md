@@ -14,7 +14,7 @@ Education
 ======
 * B.Sc. in Electronics and Computer Engineering at UFRJ; Ongoing
 
-Work and Academic experience
+Work and Academic Experience
 ======
 * 2/2018 to 1/2019: Web Developer Intern
   * Employer: Escala11
@@ -31,11 +31,11 @@ Work and Academic experience
 Skills
 ======
 * Electronics
-  * Analog Electronics: Amplifiers, AC/DC & DC/DC Converters, Oscillators, Modulators and Demodulators and others  
-  * Signal Processing: 
-  * Digital Electronics: 
-  * Control Systems: 
-  * Communications: 
+  * Analog Electronics  
+  * Signal Processing 
+  * Digital Electronics 
+  * Control Systems 
+  * Communications 
   * Simulation Software: MATLAB/Simulink, OrCAD, Proteus
 
 * Computers
