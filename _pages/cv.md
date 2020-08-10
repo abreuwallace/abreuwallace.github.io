@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
+======
 
 * B.Sc. in Electronics and Computer Engineering at UFRJ; Ongoing
 
