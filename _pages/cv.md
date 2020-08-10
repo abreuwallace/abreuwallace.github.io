@@ -11,15 +11,9 @@ redirect_from:
 
 Education
 
-================================================================
-
 * B.Sc. in Electronics and Computer Engineering at UFRJ; Ongoing
 
 Work and Academic Experience
-
-================================================================
-
-
 
 * 2/2018 to 1/2019: Web Developer Intern
   * Employer: Escala11
@@ -34,7 +28,6 @@ Work and Academic Experience
   * Duties included: Developing micrcontroller firmware and sensor electronics for remotely operated vehicles.
 
 Skills
-=================================================================
 
 * Electronics
   * Analog Electronics  
